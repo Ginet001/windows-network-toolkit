@@ -19,7 +19,7 @@ built with batch scripts and PowerShell.
 ## Setup
 1. Clone this repo:
 ```bash
-   git clone https://github.com/YOUR_USERNAME/windows-network-toolkit.git
+   git clone https://github.com/ginet001/windows-network-toolkit.git
 ```
 2. Copy the folder to `C:\NetToolkit\`
 3. Install nmap from https://nmap.org
